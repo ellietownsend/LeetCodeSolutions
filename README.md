@@ -3,7 +3,12 @@ A collection of my solutions to LeetCode problems, documenting my journey to imp
 
 ## Topics Covered:
 - Arrays & Strings
-- Dynamic Programming
 - Graph Algorithms
 - Trees
-- Recursion & Backtracking
+- Recursion 
+- Linked Lists
+
+A description of the problem and my approach to solving it.
+- **Time complexity** and **space complexity** analysis.
+- My **thought process** throughout the solution.
+- Occasionally, a brief explanation of **why I liked the problem**.
