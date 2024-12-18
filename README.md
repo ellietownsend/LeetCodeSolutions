@@ -14,7 +14,7 @@ A collection of my solutions to LeetCode problems, documenting my journey to imp
 - My **thought process** throughout the solution.
 > Occasionally, a brief explanation of **why I liked the problem**, if it was a really good one.
 >
-###Sometimes included:
+### Sometimes included:
 
-###Always included: 
+### Always included: 
 
