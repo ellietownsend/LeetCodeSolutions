@@ -16,7 +16,7 @@ A collection of my solutions to LeetCode problems, documenting my journey to imp
 
 ### Sometimes included:
 - A brief explanation of **why I liked the problem**, especially it it required a unique solution.
-- What I learned from a problem, a use of an algorithm I had not yet used, or was used creatively.
+- What I learned from a problem, ie. using of an algorithm I had not yet used, or that was used creatively.
   
 
 
