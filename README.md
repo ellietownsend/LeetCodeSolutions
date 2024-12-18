@@ -7,6 +7,7 @@ A collection of my solutions to LeetCode problems, documenting my journey to imp
 - **Graph Algorithms**
 - **Trees**
 - **Backtracking**
+- **LinkedList**
   
 ### Always included: 
 - A brielf description of the problem and my approach to solving it.
