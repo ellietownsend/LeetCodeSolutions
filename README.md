@@ -8,13 +8,16 @@ A collection of my solutions to LeetCode problems, documenting my journey to imp
 - **Trees**
 - **Backtracking**
   
-### Also included:
-- A description of the problem and my approach to solving it.
-- **Time complexity** and **space complexity** analysis.
-- My **thought process** throughout the solution.
-> Occasionally, a brief explanation of **why I liked the problem**, if it was a really good one.
->
-### Sometimes included:
-
 ### Always included: 
+- A brielf description of the problem and my approach to solving it.
+- **Time complexity** and **space complexity** analysis.
+- My **thought process** throughout the solution
+- The blood, sweat, and tears it took me to get there. (Okay, maybe not literal tears, but definitely some caffeine-induced moments of despair.)
+
+### Sometimes included:
+- A brief explanation of **why I liked the problem**, especially it it required a unique solution.
+- What I learned from a problem, a use of an algorithm I had not yet used, or was used creatively.
+  
+
+
 
